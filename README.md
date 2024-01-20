@@ -1,7 +1,7 @@
 # PySpark Exercises
 A collection of **exercises** (and mini projects) with [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) (Python API for Apache Spark). These exercises were completed as part of Udacity's [course](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) on Apache Spark. Overall, this course provides an introduction to Apache Spark, and develops skills with Spark DataFrames, Spark SQL, Spark ML, and Spark Clusters with AWS.  
 
-**Tech Stack:** Python, NumPy, pandas, Matplotlib, PySpark, Jupyter Notebook, AWS.  
+**Tech Stack:** Python, NumPy, pandas, Matplotlib, PySpark, Jupyter Notebook, GitHub, AWS.  
 
 # Learning Outcomes 
 The learning **outcomes** of the course (and associated exercises) are described below.  
