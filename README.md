@@ -3,7 +3,7 @@ A collection of **exercises** (and mini projects) with [PySpark](https://spark.a
 
 **Tech Stack:** Python, NumPy, pandas, Matplotlib, PySpark, Jupyter Notebook, GitHub, AWS.  
 
-# Learning Outcomes 
+##  Learning Outcomes 
 The learning **outcomes** of the course (and associated exercises) are described below.  
 
 - Introduction to the Course
@@ -19,6 +19,6 @@ The learning **outcomes** of the course (and associated exercises) are described
 - Machine Learning with Spark
     - In this lesson, we explore Spark's ML capabilities and build ML models and pipelines.
 
- # Environment
+ ## Environment
  For setting up the software **environment** to run the exercise scripts and notebooks, please refer to PySpark's installation [info](https://spark.apache.org/docs/latest/api/python/getting_started/install.html).  
  
