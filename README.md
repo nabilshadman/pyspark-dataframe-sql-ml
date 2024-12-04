@@ -1,5 +1,12 @@
 # PySpark Exercises
 
+![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue.svg?logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.4.0-E25A1C.svg?logo=apache-spark&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EMR%20%7C%20S3-FF9900.svg?logo=amazon-aws&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.0.0-150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243.svg?logo=numpy&logoColor=white)
+
 A comprehensive collection of exercises and mini-projects using [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) (Python API for Apache Spark). These materials were developed as part of Udacity's [Learn Spark at Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) course, providing hands-on experience with Apache Spark's core features and advanced capabilities.
 
 ## 🛠 Tech Stack
